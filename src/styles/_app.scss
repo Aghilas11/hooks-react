@@ -1,0 +1,23 @@
+div {
+    display: flex;
+    align-items: center;
+
+    h1 {
+        color: rgb(150, 23, 23);
+        text-align: center;
+    }
+
+    button {
+        background: purple;
+        height: 900;
+        cursor: pointer;
+        color: wheat;
+        margin: 0 auto;
+        padding: 15px;
+    }
+
+    img {
+        width: 400px;
+        margin: 0 auto;
+    }
+}

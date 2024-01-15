@@ -1,0 +1,23 @@
+div {
+    display: grid;
+
+    .pictures {
+        display: flex;
+
+        .picture {
+            display: flex;
+            margin: 0 auto;
+
+            img {
+                margin: 10px;
+                height: 50%;
+                width: 50%;
+
+            }
+
+            button {
+                overflow: hidden;
+            }
+        }
+    }
+}
